@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body{
+  background-color: black;
+} */
+
+
+@layer utilities {
+  @keyframes fadeInOut {
+    0%, 100% { 
+      opacity: 0; 
+      transform: translateY(10px); 
+    }
+    25%, 75% { 
+      opacity: 1; 
+      transform: translateY(0); 
+    }
+  }
+  
+  .crypto-animate {
+    animation: fadeInOut 2s infinite;
+  }
+}

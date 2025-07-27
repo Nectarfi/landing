@@ -1,0 +1,10 @@
+export { default as Navbar } from "./navbar";
+export { default as HeroSection } from "./hero";
+export { default as AboutSection } from "./about";
+export { default as HowItWorks } from "./how-it-work";
+export { default as AdvantagesSection } from "./advantages";
+export { default as SpotlightSection } from "./spotlight";
+export { default as FAQSection } from "./faq";
+export { default as FooterSection } from "./waitlist";
+export { default as BottomFooter } from "./footer";
+export { default as Testing } from "./testing";
