@@ -178,7 +178,7 @@ const BottomFooter = () => {
           
           {/* Copyright */}
           <div className="text-gray-400 text-sm">
-            C'Node Technology solutions ltd
+           Copyright @C'Node Technology solutions ltd 2025 All rights reserved
           </div>
         </div>
       </div>
