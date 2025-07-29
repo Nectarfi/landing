@@ -178,7 +178,7 @@ const BottomFooter = () => {
           
           {/* Copyright */}
           <div className="text-gray-400 text-sm">
-            Copyright ©nectarfi 2025 All rights reserved.
+            C'Node Technology solutions ltd
           </div>
         </div>
       </div>
